@@ -1,0 +1,39 @@
+* {
+  font-family: "DM Sans", sans-serif;
+  background-color: #edede9;
+}
+
+body {
+  padding: 20px;
+}
+
+header {
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+a {
+  text-decoration: none;
+  color: #588157;
+}
+
+a:hover {
+  color: #3a5a40;
+}
+
+#contact p {
+  font-weight: 700;
+}
+
+img {
+  border-radius: 5px;
+}
+
+img:hover {
+}
