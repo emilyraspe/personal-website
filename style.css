@@ -1,0 +1,42 @@
+* {
+  font-family: "DM Sans", sans-serif;
+  background-color: #edede9;
+}
+
+body {
+  padding: 20px;
+}
+
+header {
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+a {
+  text-decoration: none;
+  color: #588157;
+}
+
+a:hover {
+  color: #3a5a40;
+}
+
+#contact p {
+  font-weight: 700;
+}
+
+img {
+  border-radius: 5px;
+}
+
+/* Shadow is copied from this page: https://getcssscan.com/css-box-shadow-examples*/
+img:hover {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 7px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  transition: 0.3s ease-in-out;
+}
